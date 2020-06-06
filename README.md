@@ -10,4 +10,4 @@ Use Perspective to generate a live graph that displays the data feed in a clear 
 ***    
 
 ### UI/UX Display
-<img src="resources/data.PNG" width="100%"/>
+<img src="resources/data.PNG" width="50%"/>
